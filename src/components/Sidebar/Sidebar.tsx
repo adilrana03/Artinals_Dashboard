@@ -90,6 +90,12 @@ const Sidebar = ({ isMobileMenuOpen, setIsMobileMenuOpen }:any) => {
 						<NavItem href='/manage' icon={FileText}>
 							ART20 NFTs Management
 						</NavItem>
+						<NavItem href='/batch' icon={FileText}>
+							Batch Management
+						</NavItem>
+						<NavItem href='/eventLog' icon={FileText}>
+							Event Log
+						</NavItem>
 						<NavItem href='/' icon={Bell}>
 							Announcements
 						</NavItem>

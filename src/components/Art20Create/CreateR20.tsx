@@ -43,7 +43,7 @@ const ART20NFTCreationForm = () => {
 	};
 
 	return (
-		<Card className='w-full max-w-2xl mx-auto'>
+		<Card className='w-[350px] md:w-full mx-auto'>
 			<CardHeader>
 				<CardTitle>Create ART20 NFT</CardTitle>
 			</CardHeader>
